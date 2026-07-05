@@ -224,35 +224,37 @@ REST APIs                  ██████████ 100%
 <div align="center">
 
 <a href="https://github.com/kumardarun11">
-<img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://linkedin.com/in/kumardarun11">
-<img src="https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="mailto:kumardarun11@gmail.com">
-<img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://x.com/kumardarun11">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://x.com/kumardarun11">
-<img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
-</a>
+<br><br>
 
 <a href="https://medium.com/@kumardarun11">
-<img src="https://img.shields.io/badge/-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/>
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://instagram.com/kumardarun11">
-<img src="https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://scholar.google.com/citations?user=_asBWegAAAAJ&hl=en">
-<img src="https://img.shields.io/badge/-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
 </a>
-
+&nbsp;
 <a href="https://orcid.org/0009-0007-9211-2323">
-<img src="https://img.shields.io/badge/-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
 
 </div>
