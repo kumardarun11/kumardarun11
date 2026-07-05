@@ -12,9 +12,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Full+Stack+Developer;Backend+Engineer;IoT+Innovator;AI%2FML+Researcher;Building+Production+Ready+Applications;Open+Source+Contributor"/>
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=kumardarun11&label=Profile+Views&color=58A6FF&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/kumardarun11?style=for-the-badge&color=58A6FF&labelColor=1F222E"/>
-<img src="https://img.shields.io/github/stars/kumardarun11?style=for-the-badge&color=58A6FF&labelColor=1F222E"/>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kumardarun11&label=Profile%20Views&style=for-the-badge&color=58A6FF"/>
+
+<img src="https://img.shields.io/github/followers/kumardarun11?logo=github&style=for-the-badge&color=58A6FF"/>
+
+<img src="https://img.shields.io/github/stars/kumardarun11?affiliations=OWNER&style=for-the-badge&color=58A6FF"/>
+
+</div>
 
 </div>
 
@@ -48,10 +54,11 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 
 | 🚀 Project | Description | Tech Stack |
 |:-----------|:------------|:-----------|
-| ⚖ **Agentic Legal AI** | AI-powered legal assistant leveraging Agentic AI, Retrieval-Augmented Generation (RAG), semantic search, and LLMs for intelligent legal assistance. | FastAPI • LangChain • FAISS • PostgreSQL • LLMs |
-| 💊 **Drug Analysis & Recommendation System** | AI-powered healthcare dashboard delivering intelligent drug recommendations, sentiment analysis, forecasting, and interactive visual analytics. | Python • Streamlit • Scikit-learn • Plotly • Power BI • NLP |
-| 🏏 **Bahuballa – Smart Cricket Bat** | AI-powered cricket training platform combining IoT sensors, real-time swing analytics, posture tracking, Unity integration, and intelligent coaching recommendations. | React • Tailwind CSS • TensorFlow.js • ESP32 • Unity • WebRTC |
-| 📊 **HotelRevAI** | Intelligent hotel revenue forecasting and analytics platform developed during the Infosys Springboard Internship using machine learning models and interactive dashboards. | Python • Machine Learning • Streamlit • Pandas |
+| ⚖ **Agentic Legal AI** | AI-powered legal assistant leveraging **Agentic AI**, **RAG**, semantic search, vector databases, and LLMs for intelligent legal assistance. | **FastAPI • LangChain • FAISS • PostgreSQL • LLMs** |
+| 💊 **Drug Analysis & Recommendation System** | AI-powered healthcare platform providing intelligent drug recommendations, NLP-based sentiment analysis, forecasting, and interactive analytics dashboards. | **Python • Streamlit • Scikit-learn • Plotly • Power BI • NLP** |
+| 🏏 **Bahuballa – Smart Cricket Bat** | AI-powered IoT cricket training system featuring real-time swing analytics, AI posture tracking, Unity integration, and intelligent coaching recommendations. | **React • Tailwind CSS • TensorFlow.js • ESP32 • Unity • WebRTC** |
+| 👨‍💼 **Human Resource Management System** | Enterprise HR platform with secure authentication, employee management, attendance, leave tracking, payroll-ready workflows, and admin dashboards. | **Laravel • Flutter • MySQL • REST APIs** |
+| 📊 **HotelRevAI** | Machine learning platform for hotel revenue forecasting, occupancy prediction, and business analytics developed during the Infosys Springboard Internship. | **Python • Machine Learning • Streamlit • Pandas** |
 
 ## 💻 Tech Stack
 
