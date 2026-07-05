@@ -72,6 +72,16 @@ My work focuses on **Agentic AI**, **Machine Learning**, **Retrieval-Augmented G
 
 I enjoy taking products from **idea → architecture → deployment**, while continuously learning emerging technologies and contributing to impactful projects.
 
+## 🚀 Featured Projects
+
+| 🚀 Project | Description | Tech Stack |
+|:-----------|:------------|:-----------|
+| ⚖ **Agentic Legal AI** | AI-powered legal assistant with semantic search and RAG | FastAPI • LangChain • FAISS • LLMs |
+| 🏙 **Township Management System** | Enterprise management platform with multi-role dashboards | Laravel • React • MySQL |
+| 👨‍💼 **HR Management System** | Human Resource platform with employee & admin workflows | Laravel • Flutter |
+| 🏏 **Smart Cricket Bat Analytics** | IoT + Machine Learning system for real-time analytics | ESP32 • Python • OpenCV |
+| 📊 **HotelRevAI** | AI-powered hotel revenue forecasting platform | Python • ML • Streamlit |
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -169,6 +179,26 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 
 </div>
 
+## 📈 Expertise
+
+```text
+AI / Machine Learning      ██████████ 100%
+
+Backend Development        ██████████ 100%
+
+Python                     ██████████ 100%
+
+Full Stack Development     █████████░ 90%
+
+Cloud Computing            ████████░░ 80%
+
+IoT Development            ████████░░ 80%
+
+Computer Vision            █████████░ 90%
+
+REST APIs                  ██████████ 100%
+```
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -213,16 +243,54 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 
 </div>
 
-## ⏱ Weekly Development Breakdown
+## 🌐 Connect With Me
 
-<!--START_SECTION:waka-->
+<div align="center">
 
-```text
-Python        ████████████░░░░░░░   48%
-TypeScript    ████████░░░░░░░░░░   25%
-PHP           ████░░░░░░░░░░░░░░   12%
-Java          ███░░░░░░░░░░░░░░░    8%
-Others        ██░░░░░░░░░░░░░░░░    7%
-```
+<a href="https://linkedin.com/in/kumardarun11">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<!--END_SECTION:waka-->
+<a href="mailto:kumardarun11@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://x.com/kumardarun11">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://medium.com/@kumardarun11">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium"/>
+</a>
+
+<br>
+
+<a href="https://instagram.com/kumardarun11">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://stackoverflow.com/users/d-arun-kumar">
+<img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow"/>
+</a>
+
+<a href="https://quora.com/profile/D-ARUN-KUMAR-14">
+<img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora"/>
+</a>
+
+<a href="https://mastodon.social/@d-arun-kumar">
+<img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Building intelligent software that transforms ideas into impactful real-world solutions."*
+
+💙 Let's build something amazing together.
+
+</div>
