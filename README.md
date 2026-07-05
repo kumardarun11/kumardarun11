@@ -17,6 +17,8 @@
 
 ### 💡 *"Building intelligent software that transforms ideas into impactful real-world solutions."*
 
+</div>
+
 ## 🚀 About Me
 
 ```bash
