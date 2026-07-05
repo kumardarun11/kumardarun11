@@ -181,21 +181,19 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 ![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kumardarun11&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kumardarun11&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=kumardarun11&theme=github-dark&hide_border=true"/>
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardarun11&theme=github_dark&hide_border=true&layout=compact&langs_count=8"/>
-
-<img width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumardarun11&theme=github_dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumardarun11&theme=github_dark"/>
 
 </div>
 
