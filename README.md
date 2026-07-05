@@ -17,53 +17,18 @@
 
 ### 💡 *"Building intelligent software that transforms ideas into impactful real-world solutions."*
 
-</div>
-
 ## 🚀 About Me
 
-```python
-class ArunKumar:
+```bash
+> whoami
 
-    def __init__(self):
-        self.role = [
-            "Software Engineer",
-            "AI/ML Developer",
-            "Full Stack Developer",
-            "AI Researcher"
-        ]
-
-        self.languages = [
-            "Python",
-            "Java",
-            "C++",
-            "JavaScript",
-            "TypeScript",
-            "PHP",
-            "SQL"
-        ]
-
-        self.interests = [
-            "Agentic AI",
-            "Machine Learning",
-            "LLMs",
-            "RAG",
-            "Computer Vision",
-            "NLP",
-            "Cloud Computing",
-            "Backend Engineering"
-        ]
-
-        self.current_focus = [
-            "Enterprise AI Systems",
-            "Production-grade Backend APIs",
-            "Multi-Agent Applications",
-            "Distributed Systems"
-        ]
-
-    def life_goal(self):
-        return "Build intelligent software that solves real-world problems."
+Name        : D Arun Kumar
+Role        : AI/ML Developer | Full Stack Developer
+Focus       : Agentic AI • RAG • Backend Engineering
+Learning    : Distributed Systems • Cloud • LLMs
+Location    : India
+Status      : Building production-ready AI applications 🚀
 ```
-
 ### 💬 A little about me
 
 I'm passionate about designing scalable software systems powered by Artificial Intelligence.
