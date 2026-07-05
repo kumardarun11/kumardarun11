@@ -9,9 +9,9 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm <span style="color:#58A6FF;">D Arun Kumar</span>
 </h1>
 
-</div>
-
 ### AI/ML Developer • Full Stack Developer • Backend Engineer • IoT Innovator • AI/ML Researcher
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Full+Stack+Developer;Backend+Engineer;IoT+Innovator;AI%2FML+Researcher;Building+Production+Ready+Applications;Open+Source+Contributor"/>
 <br>
