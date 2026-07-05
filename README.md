@@ -1,11 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Arun Kumar
+# 👋 Hi, I'm D Arun Kumar
 
-### AI/ML Developer • Full Stack Developer • AI/ML Researcher • Software Developer
+### AI/ML Developer • Full Stack Developer • Backend Engineer • IoT Innovator • AI/ML Researcher
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=850&lines=Software+Engineer;AI%2FML+Developer;Full+Stack+Developer;Backend+Engineer;AI+Research+Enthusiast;Building+Production+Ready+Applications;Open+Source+Contributor;Always+Learning+Something+New+🚀" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Full+Stack+Developer;Backend+Engineer;IoT+Innovator;AI%2FML+Researcher;Building+Production+Ready+Applications;Open+Source+Contributor"/>
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=kumardarun11&label=Profile+Views&color=58A6FF&style=for-the-badge" />
@@ -205,7 +204,7 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kumardarun11&theme=github-dark&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kumardarun11&theme=github-dark&bg_color=0D1117&hide_border=true&area=true"/>
 
 </div>
 
@@ -227,19 +226,15 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumardarun11&theme=github_dark"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumardarun11&theme=github_dark"/>
 
-<br><br>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kumardarun11&theme=github_dark"/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kumardarun11&theme=github_dark"/>
+<br>
 
-<br><br>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumardarun11&theme=github_dark"/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumardarun11&theme=github_dark"/>
-
-<br><br>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kumardarun11&theme=github_dark&utcOffset=5.5"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kumardarun11&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
