@@ -5,7 +5,13 @@
 </div>
 <div align="center">
 
-# 👋 Hi, I'm D Arun Kumar
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm <span style="color:#58A6FF;">D Arun Kumar</span>
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=950&lines=AI%2FML+Developer;Full+Stack+Developer;AI+Researcher;IoT+Innovator;Building+Intelligent+Software+for+Real-World+Impact" />
+</p>
 
 ### AI/ML Developer • Full Stack Developer • Backend Engineer • IoT Innovator • AI/ML Researcher
 
