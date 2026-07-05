@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### 💡 *"Building intelligent software that transforms ideas into impactful real-world solutions."*
@@ -88,8 +86,6 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
----
-
 ### 🤖 AI • Machine Learning • Data Science
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -103,8 +99,6 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
----
-
 ### ⚙️ Backend Development
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -114,8 +108,6 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
-
----
 
 ### 🎨 Frontend Development
 
@@ -128,8 +120,6 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs)
 
----
-
 ### 🗄️ Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
@@ -138,7 +128,6 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 
----
 
 ### ☁️ Cloud • DevOps
 
@@ -154,7 +143,6 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
----
 
 ### 🛠️ Tools & Technologies
 
@@ -170,7 +158,6 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright)
 
----
 
 ### 🎨 Design & Productivity
 
@@ -181,34 +168,25 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 ![Power_BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
----
 
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumardarun11&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kumardarun11&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kumardarun11&theme=github-dark&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=kumardarun11&theme=github-dark&hide_border=true"/>
 
 </div>
+
+## 📈 Contribution Calender
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardarun11&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kumardarun11&theme=github-dark&bg_color=0D1117&hide_border=true&area=true"/>
+<img src="https://ghchart.rshah.org/58A6FF/kumardarun11"/>
 
 </div>
 
----
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -221,7 +199,6 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 
 </div>
 
----
 ## 📌 GitHub Summary
 
 <div align="center">
@@ -236,7 +213,6 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 
 </div>
 
----
 ## ⏱ Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
