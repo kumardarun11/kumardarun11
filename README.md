@@ -226,15 +226,13 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumardarun11&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kumardarun11&theme=github_dark"/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kumardarun11&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kumardarun11&theme=github_dark"/>
 
-<br>
+<br><br>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kumardarun11&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kumardarun11&theme=github_dark&utcOffset=5.5"/>
+<img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumardarun11&theme=github_dark"/>
 
 </div>
 
