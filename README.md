@@ -5,9 +5,9 @@
 </div>
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=36&duration=1&pause=999999&color=58A6FF&center=true&repeat=false&width=900&lines=%3E+D+ARUN+KUMAR_"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3200&pause=900&color=00FF99&center=true&width=900&lines=Initializing+AI+Systems...;Loading+Machine+Learning...;Launching+Full+Stack+Applications...;Ready." />
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm <span style="color:#58A6FF;">D Arun Kumar</span>
+</h1>
 
 </div>
 
