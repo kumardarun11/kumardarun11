@@ -1,4 +1,9 @@
 <div align="center">
+    
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/a637dab8-6817-4773-87b3-76cd171ecfbe" width="100%" alt="Banner"/>
+
+</div>
+<div align="center">
 
 # 👋 Hi, I'm D Arun Kumar
 
@@ -43,11 +48,10 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 
 | 🚀 Project | Description | Tech Stack |
 |:-----------|:------------|:-----------|
-| ⚖ **Agentic Legal AI** | AI-powered legal assistant with semantic search and RAG | FastAPI • LangChain • FAISS • LLMs |
-| 🏙 **Township Management System** | Enterprise management platform with multi-role dashboards | Laravel • React • MySQL |
-| 👨‍💼 **HR Management System** | Human Resource platform with employee & admin workflows | Laravel • Flutter |
-| 🏏 **Smart Cricket Bat Analytics** | IoT + Machine Learning system for real-time analytics | ESP32 • Python • OpenCV |
-| 📊 **HotelRevAI** | AI-powered hotel revenue forecasting platform | Python • ML • Streamlit |
+| ⚖ **Agentic Legal AI** | AI-powered legal assistant leveraging Agentic AI, Retrieval-Augmented Generation (RAG), semantic search, and LLMs for intelligent legal assistance. | FastAPI • LangChain • FAISS • PostgreSQL • LLMs |
+| 💊 **Drug Analysis & Recommendation System** | AI-powered healthcare dashboard delivering intelligent drug recommendations, sentiment analysis, forecasting, and interactive visual analytics. | Python • Streamlit • Scikit-learn • Plotly • Power BI • NLP |
+| 🏏 **Bahuballa – Smart Cricket Bat** | AI-powered cricket training platform combining IoT sensors, real-time swing analytics, posture tracking, Unity integration, and intelligent coaching recommendations. | React • Tailwind CSS • TensorFlow.js • ESP32 • Unity • WebRTC |
+| 📊 **HotelRevAI** | Intelligent hotel revenue forecasting and analytics platform developed during the Infosys Springboard Internship using machine learning models and interactive dashboards. | Python • Machine Learning • Streamlit • Pandas |
 
 ## 💻 Tech Stack
 
@@ -170,7 +174,7 @@ REST APIs                  ██████████ 100%
 
 <div align="center">
     
-<img width="49%" src="https://streak-stats.demolab.com?user=kumardarun11&theme=github-dark&hide_border=true"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=kumardarun11&theme=github-dark&hide_border=true"/>
 
 </div>
 
