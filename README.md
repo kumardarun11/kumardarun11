@@ -5,11 +5,9 @@
 </div>
 <div align="center">
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=36&duration=1&pause=999999&color=58A6FF&center=true&repeat=false&width=900&lines=%3E+D+ARUN+KUMAR_"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=42&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=900&lines=D+ARUN+KUMAR"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=900&lines=AI%2FML+Developer+%E2%80%A2+Full+Stack+Developer+%E2%80%A2+AI+Researcher+%E2%80%A2+IoT+Innovator"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3200&pause=900&color=00FF99&center=true&width=900&lines=Initializing+AI+Systems...;Loading+Machine+Learning...;Launching+Full+Stack+Applications...;Ready." />
 
 </div>
 
