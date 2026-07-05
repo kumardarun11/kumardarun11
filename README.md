@@ -183,21 +183,23 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 </div>
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kumardarun11&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumardarun11&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=kumardarun11&theme=github-dark&hide_border=true"/>
-
-<br><br>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kumardarun11&theme=github_dark"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kumardarun11&theme=github-dark&hide_border=true"/>
 
 </div>
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumardarun11&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 ---
+
 ## 📈 Contribution Graph
 
 <div align="center">
