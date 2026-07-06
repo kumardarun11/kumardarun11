@@ -182,6 +182,24 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 
 </div>
 
+## 🏆 Featured Certifications
+
+### 🤖 Artificial Intelligence & Machine Learning
+- 🏅 Oracle Cloud Infrastructure 2025 Certified **Generative AI Professional**
+- 🏅 Oracle Cloud Infrastructure 2025 Certified **Data Science Professional**
+- 🏅 Oracle AI Vector Search **Certified Professional**
+
+### ☁️ Cloud & Software Engineering
+- 🏅 Oracle Cloud Infrastructure 2025 Certified **Developer Professional**
+- 🏅 Oracle Cloud Infrastructure 2025 Certified **Architect Associate**
+- 🏅 Oracle Cloud Infrastructure 2025 Certified **Networking Professional**
+
+### 💻 Professional Development
+- 🏅 **AWS Academy Cloud Foundations**
+- 🏅 **Docker Foundations Professional** (LinkedIn Learning)
+- 🏅 **HackerRank Frontend Developer (React)**
+- 🏅 **HackerRank REST API (Intermediate)**
+
 ## 📈 Expertise
 
 ```text
