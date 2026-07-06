@@ -9,11 +9,11 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm <span style="color:#58A6FF;">D Arun Kumar</span>
 </h1>
 
-### AI/ML Developer • Full Stack Developer • Backend Engineer • IoT Innovator • AI/ML Researcher
+### AI/ML Developer • Full Stack Developer • IoT Innovator • AI/ML Researcher
 
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Full+Stack+Developer;Backend+Engineer;IoT+Innovator;AI%2FML+Researcher;Building+Production+Ready+Applications;Open+Source+Contributor"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+Intelligent+Software+for+Real-World+Impact;Building+Production-Ready+AI+Applications;Engineering+Scalable+Full+Stack+Solutions;Exploring+Generative+AI+%26+Agentic+AI;Researching+Computer+Vision+%26+Deep+Learning;Designing+AI-Powered+Systems;Always+Learning.+Always+Building."/>
 <br>
 
 <div align="center">
@@ -41,8 +41,9 @@
 
 Name        : D Arun Kumar
 Role        : AI/ML Developer | Full Stack Developer
-Focus       : Agentic AI • RAG • Backend Engineering
-Learning    : Distributed Systems • Cloud • LLMs
+Focus       : Agentic AI • Deep Learning • IoT Systems
+Building    : Intelligent AI Applications
+Learning    : Distributed Systems • Cloud Computing • Computer Vision
 Location    : India
 Status      : Building production-ready AI applications 🚀
 ```
@@ -50,7 +51,7 @@ Status      : Building production-ready AI applications 🚀
 
 I'm passionate about designing scalable software systems powered by Artificial Intelligence.
 
-My work focuses on **Agentic AI**, **Machine Learning**, **Retrieval-Augmented Generation (RAG)**, **Backend Engineering**, and **Full Stack Development**.
+My work focuses on **Artificial Intelligence, Machine Learning, Deep Learning, Agentic AI, Retrieval-Augmented Generation (RAG), Full Stack Development, and IoT-driven intelligent systems**. I enjoy designing scalable software that combines AI, cloud technologies, and embedded systems to solve real-world problems.
 
 I enjoy taking products from **idea → architecture → deployment**, while continuously learning emerging technologies and contributing to impactful projects.
 
@@ -167,8 +168,6 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino)
-![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright)
 
@@ -186,21 +185,25 @@ I enjoy taking products from **idea → architecture → deployment**, while con
 ## 📈 Expertise
 
 ```text
-AI / Machine Learning      ██████████ 100%
+Artificial Intelligence    █████████░░ 90%
 
-Backend Development        ██████████ 100%
+Machine Learning           █████████░░ 90%
 
-Python                     ██████████ 100%
+Deep Learning              ████████░░ 80%
 
-Full Stack Development     █████████░ 90%
+Computer Vision            ████████░░ 85%
+
+Full Stack Development     █████████░░ 90%
+
+Backend Development        █████████░░ 90%
+
+Python                     ██████████░ 95%
+
+IoT & Embedded Systems     ████████░░ 80%
 
 Cloud Computing            ████████░░ 80%
 
-IoT Development            ████████░░ 80%
-
-Computer Vision            █████████░ 90%
-
-REST APIs                  ██████████ 100%
+REST API Development       █████████░░ 90%
 ```
 
 # 📊 GitHub Analytics
